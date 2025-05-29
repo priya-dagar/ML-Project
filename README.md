@@ -29,7 +29,7 @@ This project uses **machine learning** to predict the **medical insurance premiu
 
 📦Medical-Insurance-Predictor
 ┣ 📜 insurance.csv # Dataset
-┣ 📜 model_training.py # Model training and evaluation
+┣ 📜 Medical_Insurance_Price_Prediction .ipynb # Model training and evaluation
 ┣ 📜 MIPML.pkl # Trained model (Random Forest Regressor)
 ┣ 📜 app.py # Streamlit web app
 ┗ 📜 README.md # Project documentation
